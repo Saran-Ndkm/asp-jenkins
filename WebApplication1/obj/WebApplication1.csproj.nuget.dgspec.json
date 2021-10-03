@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saran\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\saran\\Desktop\\GIT-IIS-DOTNET\\asp-jenkins\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saran\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\saran\\Desktop\\GIT-IIS-DOTNET\\asp-jenkins\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saran\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\saran\\Desktop\\GIT-IIS-DOTNET\\asp-jenkins\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\saran\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\saran\\Desktop\\GIT-IIS-DOTNET\\asp-jenkins\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\saran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saran\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\saran\\Desktop\\GIT-IIS-DOTNET\\asp-jenkins\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saran\\AppData\\Roaming\\NuGet\\NuGet.Config",
